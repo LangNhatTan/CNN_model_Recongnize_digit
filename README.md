@@ -1,1 +1,1 @@
-# CNN_model_Recongnize_digit_number
+# Using CNN model to recognize digit
