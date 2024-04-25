@@ -12,6 +12,7 @@
 + Step 3: Run file main.ipynb.
 ## Note
 + Result in Google Colab our team had used folder main_model.model (this model has been built by our teams). You also design the number of hidden layers, activation, data training, ... suitable for your project.
++ You should setting the path correct before running the code.
 ## Screenshots
 + Accuracy and Loss value of this model
 
