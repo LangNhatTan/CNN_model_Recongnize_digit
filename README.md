@@ -1,7 +1,7 @@
 # AI Project
 # CNN model
 ## Description
-+ This project buld a CNN (Convolution Neural Network) model used to recognize digit from 0 to 9. Input of this model is a digit picture and output is a digit picture has been classified.
++ This project build a CNN (Convolution Neural Network) model used to recognize digit from 0 to 9. Input of this model is a digit picture and output is a digit picture has been classified.
 ## About this model
 + This model is built base on Python.
 + Framework: tensorflow, keras, numpy, OpenCV, matplotlib.
