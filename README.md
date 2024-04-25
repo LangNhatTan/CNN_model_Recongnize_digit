@@ -9,7 +9,7 @@
 ## Setting and run the code
 + Step 1: Download folder CNN_model in github.
 + Step 2: Open Google Colab and push folder CNN_model in Google Colab.
-+ Step 3: Run file main.ipynb.
++ Step 3: Run file <b>main.ipynb</b>.
 ## Note
 + Result in Google Colab our team had used folder main_model.model (this model has been built by our teams). You also design the number of hidden layers, activation, data training, ... suitable for your project.
 + You should setting the path correct before running the code.
